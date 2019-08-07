@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:NotDefterim.Mobil"
+             x:Class="NotDefterim.Mobil.MainPage">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Label Text="Kategori Listeniz"></Label>
+        <ListView x:Name="lstkategori">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <ViewCell.ContextActions>
+                            <MenuItem Text="Notları getir" CommandParameter="{Binding Id}" Clicked="MenuItem_Clicked"></MenuItem>
+                        </ViewCell.ContextActions>
+                        <StackLayout>
+                            <Label Text="{Binding Ad}" TextColor="Red"></Label>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+
+</ContentPage>

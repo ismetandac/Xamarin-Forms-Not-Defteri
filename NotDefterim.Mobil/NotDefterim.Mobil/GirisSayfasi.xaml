@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="NotDefterim.Mobil.GirisSayfasi">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="E-Posta Adresiniz"
+           />
+            <Entry x:Name="txtEmail" Keyboard="Email"></Entry>
+            <Label Text="Şifreniz"
+              />
+            <Entry x:Name="txtPass" IsPassword="True" ></Entry>
+            <Button x:Name="btnLogin" Text="Giriş Yap" Clicked="btnLogin_Clicked"></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

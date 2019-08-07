@@ -1,0 +1,14 @@
+C:\Users\Abdullah\Source\repos\NotDefterim\NotDefterim.Mobil\NotDefterim.Mobil\bin\Debug\netstandard2.0\NotDefterim.Mobil.deps.json
+C:\Users\Abdullah\Source\repos\NotDefterim\NotDefterim.Mobil\NotDefterim.Mobil\bin\Debug\netstandard2.0\NotDefterim.Mobil.dll
+C:\Users\Abdullah\Source\repos\NotDefterim\NotDefterim.Mobil\NotDefterim.Mobil\bin\Debug\netstandard2.0\NotDefterim.Mobil.pdb
+C:\Users\Abdullah\Source\repos\NotDefterim\NotDefterim.Mobil\NotDefterim.Mobil\obj\Debug\netstandard2.0\NotDefterim.Mobil.csprojAssemblyReference.cache
+C:\Users\Abdullah\Source\repos\NotDefterim\NotDefterim.Mobil\NotDefterim.Mobil\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Abdullah\Source\repos\NotDefterim\NotDefterim.Mobil\NotDefterim.Mobil\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Abdullah\Source\repos\NotDefterim\NotDefterim.Mobil\NotDefterim.Mobil\obj\Debug\netstandard2.0\NotDefterim.Mobil.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\Source\repos\NotDefterim\NotDefterim.Mobil\NotDefterim.Mobil\obj\Debug\netstandard2.0\NotDefterim.Mobil.AssemblyInfoInputs.cache
+C:\Users\Abdullah\Source\repos\NotDefterim\NotDefterim.Mobil\NotDefterim.Mobil\obj\Debug\netstandard2.0\NotDefterim.Mobil.AssemblyInfo.cs
+C:\Users\Abdullah\Source\repos\NotDefterim\NotDefterim.Mobil\NotDefterim.Mobil\obj\Debug\netstandard2.0\NotDefterim.Mobil.dll
+C:\Users\Abdullah\Source\repos\NotDefterim\NotDefterim.Mobil\NotDefterim.Mobil\obj\Debug\netstandard2.0\NotDefterim.Mobil.pdb
+C:\Users\Abdullah\Source\repos\NotDefterim\NotDefterim.Mobil\NotDefterim.Mobil\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Abdullah\Source\repos\NotDefterim\NotDefterim.Mobil\NotDefterim.Mobil\obj\Debug\netstandard2.0\GirisSayfasi.xaml.g.cs
+C:\Users\Abdullah\Source\repos\NotDefterim\NotDefterim.Mobil\NotDefterim.Mobil\obj\Debug\netstandard2.0\Notlar.xaml.g.cs

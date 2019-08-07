@@ -1,0 +1,12 @@
+C:\Users\Abdullah\Source\repos\NotDefterim\NotDefterim.Model\bin\Debug\NotDefterim.Model.dll.config
+C:\Users\Abdullah\Source\repos\NotDefterim\NotDefterim.Model\bin\Debug\NotDefterim.Model.dll
+C:\Users\Abdullah\Source\repos\NotDefterim\NotDefterim.Model\bin\Debug\NotDefterim.Model.pdb
+C:\Users\Abdullah\Source\repos\NotDefterim\NotDefterim.Model\bin\Debug\EntityFramework.dll
+C:\Users\Abdullah\Source\repos\NotDefterim\NotDefterim.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Abdullah\Source\repos\NotDefterim\NotDefterim.Model\bin\Debug\EntityFramework.xml
+C:\Users\Abdullah\Source\repos\NotDefterim\NotDefterim.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Abdullah\Source\repos\NotDefterim\NotDefterim.Model\obj\Debug\NotDefterim.Model.csprojAssemblyReference.cache
+C:\Users\Abdullah\Source\repos\NotDefterim\NotDefterim.Model\obj\Debug\NotDefterim.Model.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\Source\repos\NotDefterim\NotDefterim.Model\obj\Debug\NotDefterim.Model.csproj.CopyComplete
+C:\Users\Abdullah\Source\repos\NotDefterim\NotDefterim.Model\obj\Debug\NotDefterim.Model.dll
+C:\Users\Abdullah\Source\repos\NotDefterim\NotDefterim.Model\obj\Debug\NotDefterim.Model.pdb
